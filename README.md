@@ -1,6 +1,6 @@
 # Hey this is Sanskar
 
-This is my bubble shppter game i created for the cs 101 project
+This is my bubble shooter game i created for the cs 101 project
 
 As basic controls for this game I have included various different movements
 
